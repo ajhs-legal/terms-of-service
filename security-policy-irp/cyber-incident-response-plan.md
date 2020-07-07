@@ -133,8 +133,7 @@ The IRT shall document its response plans and the activities completed for each 
 9. ​	**Notifications**. While the IRT may choose to authorize discretionary communications, certain laws, regulations and contractual commitments may require Goodlawyer Inc. to notify various parties of some Information Security Incidents. If applicable to a specific Information Security Incident, as required, the IRT shall:
 10. ​	**Authorities**. Notify applicable regulators, law enforcement, or other authorities.
 11. ​	**Affected Individuals.** If an applicable breach of Personal Information occurs, prepare and distribute notifications to affected individuals.
-
-**[Others. Notify [****customers/clients]** **or business partners according to current agreements.**
+12. **[Others. Notify [****customers/clients]** **or business partners according to current agreements.**
 
 ### Post-Incident Review
 
