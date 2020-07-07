@@ -94,7 +94,7 @@ Before serving a demand for arbitration of a Claim, you agree with the Company t
 
 This Arbitration Provision applies to all Users. In the unlikely event the parties are unable to resolve a Claim within 60 days of the receipt of the applicable Notice, you, the Company, and our Affiliates (if applicable) agree to resolve the Claim by final and binding arbitration before a neutral arbitrator selected by the Company instead of a court or jury.
 
-### Scope, Place and Rules of Arbitration Agreement
+## Scope, Place and Rules of Arbitration Agreement
 
 This Arbitration Provision applies to any Claim (defined above) the parties may have and survives after your relationship with Goodlawyer ends. Claims covered by this Arbitration Provision include, but are not limited to, all claims, disputes or controversies arising out of or relating to this Agreement or the Terms of Service. This Arbitration Provision is intended to apply to the resolution of any disputes arising out of or in connection with the Terms of Service that otherwise would be resolved in a provincial or federal court of law or before a forum other than arbitration.
 
