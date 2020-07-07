@@ -28,7 +28,7 @@ If a Client solicits a Lawyer to take the Goodlawyer Relationship off of the Pla
 
 If a Lawyer obtains a request for a Job or is otherwise identified by a Client through the Platform, and the Lawyer solicits the Client to make payment other than in accordance with Section 12.1, to make payment for Legal Services originated through a Goodlawyer Relationship, then the Lawyer agrees to pay a Disintermediation Fee to the Company of $5,000.
 
-Recruiting from Platform
+### Recruiting from Platform
 
 If any Client agrees to hire a Lawyer as a full-time employee following their introduction to that Lawyer through the Goodlawyer Platform, the Client agrees it will pay the Company a recruitment fee equal to the greater of: (i) $5,000 or (ii) 15% of the Lawyer’s first-year employment salary.
 
@@ -48,9 +48,9 @@ In connection with the Terms of Service, you may be entitled to receive certain 
 
 You acknowledge that Goodlawyer reserves the right to refuse service to anyone and to cancel User access at any time, subject to any restrictions under applicable law.
 
-### Term and Termination
+## Term and Termination
 
-#### Termination
+### Termination
 
 This Section discusses your and our agreement about when and how long this Agreement will last, when and how either you or Goodlawyer can end this Agreement, and what happens if either of us ends the Agreement, as detailed below.
 
@@ -62,39 +62,39 @@ You acknowledge and agree that the value, reputation, and goodwill of the Platfo
 
 **IF GOODLAWYER DECIDES TO TEMPORARILY OR PERMANENTLY CLOSE YOUR ACCOUNT, THE COMPANY HAS THE RIGHT WHERE ALLOWED BY LAW BUT NOT THE OBLIGATION TO: (A) NOTIFY OTHER USERS THAT HAVE ENTERED INTO LEGAL SERVICE CONTRACTS WITH YOU TO INFORM THEM OF YOUR CLOSED ACCOUNT STATUS, (B) PROVIDE THOSE USERS WITH A SUMMARY OF THE REASONS FOR YOUR ACCOUNT CLOSURE. YOU AGREE THAT GOODLAWYER WILL HAVE NO LIABILITY ARISING FROM OR RELATING TO ANY NOTICE THAT IT MAY PROVIDE TO ANY USER REGARDING CLOSED ACCOUNT STATUS OR THE REASON(S) FOR THE CLOSURE.**
 
-#### Account Data
+### Account Data
 
 Except as otherwise required by law, if your Account is closed for any reason, you will no longer have access to data, messages, files, or other material you keep on the Platform and that that any closure of your Account may involve deletion of any content stored in your Account for which Goodlawyer will have no liability whatsoever. The Company, in its sole discretion and as permitted or required by law, may retain some or all of your Account information.
 
-##### Survival
+#### Survival
 
 After this Agreement terminates, the terms of this Agreement and the other Terms of Service that expressly or by their nature contemplate performance after this Agreement terminates or expires will survive and continue in full force and effect. For example, the provisions requiring arbitration, permitting audits, protecting intellectual property, requiring non-circumvention, indemnification, payment of fees, reimbursement and setting forth limitations of liability each, by their nature, contemplate performance or observance after this Agreement terminates. Without limiting any other provisions of the Terms of Service, the termination of this Agreement for any reason will not release you or Goodlawyer from any obligations incurred prior to termination of this Agreement or that thereafter may accrue in respect of any act or omission prior to such termination.
 
-### Disputes and Dispute Resolution
+#### Disputes and Dispute Resolution
 
 Section 18 discusses your agreement with Goodlawyer and our agreement with you about how we will resolve any disputes, including that we will both first try to resolve any dispute informally and that we both agree to use arbitration instead of going to court or using a jury if we can’t resolve the dispute informally, as detailed below.
 
-##### Disputes between Goodlawyer and Platform Users
+#### Disputes between Goodlawyer and Platform Users
 
 If a dispute arises between you and Goodlawyer or our Affiliates, our goal is to resolve the dispute quickly, cost-effectively, and in a friendly manner. Accordingly, unless you opt out as provided in Section 18.9 below, you, Goodlawyer, and our Affiliates agree to resolve any claim, dispute, or controversy that arises out of or relates to this Agreement, the other Terms of Service, your relationship with Goodlawyer (including without limitation any claimed employment with Goodlawyer or one of our Affiliates or successors), the termination of your relationship with Goodlawyer, or the Platform Services (in this Section 18 each, a “Claim”) in accordance with this Section 18 (sometimes referred to as the “Arbitration Provision”).
 
-##### Scope of Claims
+#### Scope of Claims
 
 Claims covered by this Arbitration Provision include, but are not limited to, all claims, disputes, or controversies arising out of or relating to this Agreement, the Terms of Service, any Legal Services Contract, payments or agreements, any payments or monies you claim are due to you from the Company or our Affiliates or successors, trade secrets, unfair competition, false advertising, consumer protection, privacy, compensation, classification, minimum wage, seating, expense reimbursement, overtime, breaks and rest periods, termination, discrimination, retaliation or harassment and claims arising under and all legislated provincial, state or federal claims arising out of or relating to your relationship with Goodlawyer or the termination of that relationship.
 
-##### Choice of Law
+#### Choice of Law
 
 These Site Terms of Use, the other Terms of Service, and any Claim will be governed by and construed in accordance with the laws of the Province of Alberta.
 
-##### Informal Dispute Resolution
+#### Informal Dispute Resolution
 
 Before serving a demand for arbitration of a Claim, you agree with the Company to first notify each other of the Claim or potential Claim. You agree to notify Goodlawyer of the Claim at by email to [help@goodlawyer.ca](help@goodlawyer.ca), and the Company agrees to provide to you a notice at your email address on file (in each case, a “Notice”). You and the Company then will seek informal voluntary resolution of the Claim. Any Notice must include pertinent account information, a brief description of the Claim, and contact information, so that you or Goodlawyer, as applicable, may evaluate the Claim and attempt to informally resolve the Claim. Both you and the Company will have 60 days from the date of the receipt of the Notice to informally resolve the other party’s Claim, which, if successful, will avoid the need for further action.
 
-##### Binding Arbitration and Waiver
+#### Binding Arbitration and Waiver
 
 This Arbitration Provision applies to all Users. In the unlikely event the parties are unable to resolve a Claim within 60 days of the receipt of the applicable Notice, you, the Company, and our Affiliates (if applicable) agree to resolve the Claim by final and binding arbitration before a neutral arbitrator selected by the Company instead of a court or jury.
 
-##### Scope, Place and Rules of Arbitration Agreement
+### Scope, Place and Rules of Arbitration Agreement
 
 This Arbitration Provision applies to any Claim (defined above) the parties may have and survives after your relationship with Goodlawyer ends. Claims covered by this Arbitration Provision include, but are not limited to, all claims, disputes or controversies arising out of or relating to this Agreement or the Terms of Service. This Arbitration Provision is intended to apply to the resolution of any disputes arising out of or in connection with the Terms of Service that otherwise would be resolved in a provincial or federal court of law or before a forum other than arbitration.
 
