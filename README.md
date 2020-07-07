@@ -1,2 +1,3 @@
-# terms-of-service
+# Draft Terms of Service
+---
 Goodlawyer Inc. Terms of Service 
