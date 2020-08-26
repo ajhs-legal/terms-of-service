@@ -4,7 +4,7 @@ Section 18 discusses your agreement with Goodlawyer and our agreement with you a
 
 #### Disputes between Goodlawyer and Platform Users
 
-If a dispute arises between you and Goodlawyer or our Affiliates, our goal is to resolve the dispute quickly, cost-effectively, and in a friendly manner. Accordingly, unless you opt out as provided in Section 18.9 below, you, Goodlawyer, and our Affiliates agree to resolve any claim, dispute, or controversy that arises out of or relates to this Agreement, the other Terms of Service, your relationship with Goodlawyer (including without limitation any claimed employment with Goodlawyer or one of our Affiliates or successors), the termination of your relationship with Goodlawyer, or the Platform Services (in this Section 18 each, a “Claim”) in accordance with this Section 18 (sometimes referred to as the “Arbitration Provision”).
+If a dispute arises between you and Goodlawyer or our Affiliates, our goal is to resolve the dispute quickly, cost-effectively, and in a friendly manner. Accordingly, unless you opt out as provided in the Section below, you, Goodlawyer, and our Affiliates agree to resolve any claim, dispute, or controversy that arises out of or relates to this Agreement, the other Terms of Service, your relationship with Goodlawyer (including without limitation any claimed employment with Goodlawyer or one of our Affiliates or successors), the termination of your relationship with Goodlawyer, or the Platform Services (in this Section 18 each, a “**Claim**”) in accordance with this Section 18 (sometimes referred to as the “**Arbitration Provision**”).
 
 #### Scope of Claims
 
@@ -16,7 +16,7 @@ These Site Terms of Use, the other Terms of Service, and any Claim will be gover
 
 #### Informal Dispute Resolution
 
-Before serving a demand for arbitration of a Claim, you agree with the Company to first notify each other of the Claim or potential Claim. You agree to notify Goodlawyer of the Claim at by email to [help@goodlawyer.ca](help@goodlawyer.ca), and the Company agrees to provide to you a notice at your email address on file (in each case, a “Notice”). You and the Company then will seek informal voluntary resolution of the Claim. Any Notice must include pertinent account information, a brief description of the Claim, and contact information, so that you or Goodlawyer, as applicable, may evaluate the Claim and attempt to informally resolve the Claim. Both you and the Company will have 60 days from the date of the receipt of the Notice to informally resolve the other party’s Claim, which, if successful, will avoid the need for further action.
+Before serving a demand for arbitration of a Claim, you agree with the Company to first notify each other of the Claim or potential Claim. You agree to notify Goodlawyer of the Claim at by email to [help@goodlawyer.ca](help@goodlawyer.ca), and the Company agrees to provide to you a notice at your email address on file (in each case, a “**Notice**”). You and the Company then will seek informal voluntary resolution of the Claim. Any Notice must include pertinent account information, a brief description of the Claim, and contact information, so that you or Goodlawyer, as applicable, may evaluate the Claim and attempt to informally resolve the Claim. Both you and the Company will have 60 days from the date of the receipt of the Notice to informally resolve the other party’s Claim, which, if successful, will avoid the need for further action.
 
 #### Binding Arbitration and Waiver
 
@@ -43,9 +43,7 @@ In the event any portion of this Arbitration Provision is deemed unenforceable, 
 Both you and the Company agree to bring any dispute in arbitration on an individual basis only, and not on a class or collective basis on behalf of others. There will be no right or authority for any dispute to be brought, heard or arbitrated as a class or collective action, or as a member in any such class or collective proceeding (the “Class Action Waiver”). Notwithstanding any other provision of this Agreement or the applicable arbitration rules, disputes regarding the enforceability, revocability, scope, or validity or breach of the Class Action Waiver may be resolved only by a civil court of competent jurisdiction and not by an arbitrator. In any case in which:
 
 1. The dispute is filed as a class or collective action; and,
-
 2. There is a final judicial determination that all or part of the Class Action Waiver is unenforceable, the class or collective action to that extent must be litigated in a civil court of competent jurisdiction, but the portion of the Class Action Waiver that is enforceable shall be enforced in arbitration. 
-   
    1. You and Goodlawyer agree that you will not be retaliated against, disciplined or threatened with discipline as a result of your filing or participating in a class or collective action in any forum. However, we may lawfully seek enforcement of this Arbitration Provision and the Class Action Waiver under the Arbitration Act and seek dismissal of such class or collective actions or claims.
 
 ##### Opt-Out of Arbitration Provision
