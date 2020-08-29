@@ -1,6 +1,6 @@
 # Non-Circumvention
 
-## This Page discusses your agreement to make and receive payments only through Goodlawyer for two years from the date you first meet your Client or Lawyer on the Site, unless you pay a Disintermediation Fee, as detailed below.
+## This Section discusses your agreement to make and receive payments only through Goodlawyer for two years from the date you first meet your Client or Lawyer on the Site, unless you pay a Disintermediation Fee, as detailed below.
 
 ## Payments Through the Platform
 
