@@ -6,4 +6,4 @@ Le contrat de mandat de Goodlawyer crée une relation d’avocat-client qui prot
 
 Veuillez lire attentivement ce document avant de travailler avec un avocat sur notre plateforme. Ce mandataire à portée limitée s’appliquera à toutes les relations avocat-client formées sur la plateforme, à moins d’un accord conclu entre l’avocat et le client. Il est de votre responsabilité de consulter ce document. Si à tout moment vous n’êtes pas d’accord avec cet accord, n’utilisez aucun de nos services. Si vous avez des questions sur ce document, veuillez contacter [help@goodlawyer.ca](mailto:help@goodlawyer.ca).
 
-**YOU EXPRESSLY UNDERSTAND AND AGREE ANY DISPUTE SHALL BE INTERPRETED BASED ON THE ENGLISH TEXT ONLY.**
+**YOU EXPRESSLY UNDERSTAND AND AGREE ANY DISPUTE SHALL BE INTERPRETED BASED ON INTERPRETATION OF THE ENGLISH TEXT ONLY.**
