@@ -1,32 +1,49 @@
 # Records of Compliance
 
-Users will each (a) create and maintain records to document satisfaction of their respective obligations under this Agreement, including, without limitation, their respective payment obligations and compliance with tax and employment laws, and (b) provide copies of such records to the Company upon request. Nothing in this subsection requires or will be construed as requiring Goodlawyer to supervise or monitor a User’s compliance with this Agreement, the other Terms of Service, or a Service Contract. You are solely responsible for creation, storage, and backup of your business records.
+## Goodlawyer makes no representations or warranties with regard to the Website, the Platform services, work product, or any activities or items related to this Agreement or the Terms of Service. 
 
-Goodlawyer agrees that it will either (i) store, backup, retain, or grant access to any information or data for each Client job or matter for the period request by a Lawyer to maintain that record under applicable legislation or (ii) provide a Lawyer with a complete record of its job with the Client following completion of that job as indicated by the Lawyer.
+#### Responsiblites of the Parties
+
+Users will each:
+
+1. Create and maintain records to document satisfaction of their respective obligations under this Agreement, including, without limitation, their respective payment obligations and compliance with tax and employment laws; and,
+2. Provide copies of such records to the Company upon request. Nothing in this subsection requires or will be construed as requiring Goodlawyer to supervise or monitor a User’s compliance with this Agreement, the other Terms of Service, or a Service Contract. 
+
+**You are solely responsible for creation, storage, and backup of your business records.**
+
+Goodlawyer agrees that it will either:
+
+1. Store, backup, retain, or grant access to any information or data for each Client job or matter for the period request by a Lawyer to maintain that record under applicable legislation; or,
+2. Provide a Lawyer with a complete record of its job with the Client following completion of that job as indicated by the Lawyer.
 
 ## Warranty, Liability and Release
 
 ### Warranty Disclaimer
 
-You agree not to rely on the Website, the Platform Services, any information on the site or the continuation of the Platform. The Platform and the Platform services are provided on and “as is” and an “**as available**” basis. 
+You agree not to rely on the Website, the Platform Services, any information on the site or the continuation of the Platform. The Platform and the Platform services are provided on and “_as is_” and an “**as available**” basis. 
 
-Goodlawyer makes no representations or warranties with regard to the Website, the Platform services, work product, or any activities or items related to this Agreement or the Terms of Service. To the maximum extent permitted by applicable law, the Company disclaims all express and implied conditions, representations, and warranties including, but not limited to, the warranties of merchantability, accuracy, fitness for a particular purpose, title, and non-infringement. Some jurisdictions may not allow for all of the foregoing limitations on warranties, so to that extent, some or all of the above limitations may not apply to you. Section 17 (Term and Termination) states user’s sole and exclusive remedy against Goodlawyer with respect to any defects, non-conformances, or dissatisfaction.
+To the maximum extent permitted by applicable law, the Company disclaims all express and implied conditions, representations, and warranties including, but not limited to, the warranties of merchantability, accuracy, fitness for a particular purpose, title, and non-infringement. Some jurisdictions may not allow for all of the foregoing limitations on warranties, so to that extent, some or all of the above limitations may not apply to you. 
 
 ### Limitation of Liability
 
 Goodlawyer is not liable, and you agree not to hold us responsible, for any damages or losses arising out of or in connection with the Terms of Service, including, but not limited to:
 
-- your use of or your inability to use our Platform or Platform Services;
-- delays or disruptions in our Platform or Platform Services;
-- viruses or other malicious software obtained by accessing, or linking to, our Platform or Platform Services;
-- glitches, bugs, errors, or inaccuracies of any kind in our Platform or Platform Services;
-- damage to your hardware device from the use of the Platform or Platform Services;
-- the content, actions, or inactions of third parties’ use of the Platform or Platform Services;
-- a suspension or other action taken with respect to your Account;
-- your reliance on the quality, accuracy, or reliability of Fixed-Fee Listings, Profiles, Ratings, Reviews, recommendations, and feedback (including their content, order, and display), Composite Information, or metrics found on, used on, or made available through the Platform; and
-- your need to modify practices, content, or behavior or your loss of or inability to do business, as a result of changes to the Terms of Service.
+- Your use of or your inability to use our Platform or Platform Services;
+- Delays or disruptions in our Platform or Platform Services;
+- Viruses or other malicious software obtained by accessing, or linking to, our Platform or Platform Services;
+- A data breach;
+- Observation by government or malicious actors through any means;
+- Glitches, bugs, errors, or inaccuracies of any kind in our Platform or Platform Services;
+- Damage to your hardware device from the use of the Platform or Platform Services;
+- The content, actions, or inactions of third parties’ use of the Platform or Platform Services;
+- A suspension or other action taken with respect to your Account;
+- Your reliance on the quality, accuracy, or reliability of Fixed-Fee Listings, Profiles, Ratings, Reviews, recommendations, and feedback (including their content, order, and display), Composite Information, or metrics found on, used on, or made available through the Platform; and
+- Your need to modify practices, content, or behavior or your loss of or inability to do business, as a result of changes to the Terms of Service.
 
-**ADDITIONALLY, IN NO EVENT WILL GOODLAWYER, OUR AFFILIATES, OUR LICENSORS, OR OUR THIRD-PARTY SERVICE PROVIDERS, AS APPLICABLE, BE LIABLE FOR ANY SPECIAL, CONSEQUENTIAL, INCIDENTAL, PUNITIVE, EXEMPLARY, OR INDIRECT COSTS OR DAMAGES, INCLUDING, BUT NOT LIMITED TO, LITIGATION COSTS, INSTALLATION AND REMOVAL COSTS, OR LOSS OF DATA, PRODUCTION, PROFIT, OR BUSINESS OPPORTUNITIES. THE LIABILITY OF GOODLAWYER, OUR AFFILIATES, OUR LICENSORS, AND OUR THIRD-PARTY SERVICE PROVIDERS TO ANY USER FOR ANY CLAIM ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT OR THE OTHER TERMS OF SERVICE WILL NOT EXCEED THE LESSER OF: (A) $2,500; OR (B) ANY FEES RETAINED BY GOODLAWYER WITH RESPECT TO LEGAL SERVICE CONTRACTS ON WHICH USER WAS INVOLVED AS CLIENT OR LAWYER DURING THE SIX-MONTH PERIOD PRECEDING THE DATE OF THE CLAIM.**
+**ADDITIONALLY, IN NO EVENT WILL GOODLAWYER, OUR AFFILIATES, OUR LICENSORS, OR OUR THIRD-PARTY SERVICE PROVIDERS, AS APPLICABLE, BE LIABLE FOR ANY SPECIAL, CONSEQUENTIAL, INCIDENTAL, PUNITIVE, EXEMPLARY, OR INDIRECT COSTS OR DAMAGES, INCLUDING, BUT NOT LIMITED TO, LITIGATION COSTS, INSTALLATION AND REMOVAL COSTS, OR LOSS OF DATA, PRODUCTION, PROFIT, OR BUSINESS OPPORTUNITIES. THE LIABILITY OF GOODLAWYER, OUR AFFILIATES, OUR LICENSORS, AND OUR THIRD-PARTY SERVICE PROVIDERS TO ANY USER FOR ANY CLAIM ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT OR THE OTHER TERMS OF SERVICE WILL NOT EXCEED THE LESSER OF"**
+
+1. **$2,500; OR,**
+2. **ANY FEES RETAINED BY GOODLAWYER WITH RESPECT TO LEGAL SERVICE CONTRACTS ON WHICH USER WAS INVOLVED AS CLIENT OR LAWYER DURING THE SIX-MONTH PERIOD PRECEDING THE DATE OF THE CLAIM**
 
 **THESE LIMITATIONS WILL APPLY TO ANY LIABILITY, ARISING FROM ANY CAUSE OF ACTION WHATSOEVER ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT OR THE OTHER TERMS OF SERVICE, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR OTHERWISE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH COSTS OR DAMAGES AND EVEN IF THE LIMITED REMEDIES PROVIDED HEREIN FAIL OF THEIR ESSENTIAL PURPOSE. SOME JURISDICTIONS MAY NOT ALLOW FOR ALL OF THE FOREGOING EXCLUSIONS AND LIMITATIONS, SO TO THAT EXTENT, SOME OR ALL OF THESE LIMITATIONS AND EXCLUSIONS MAY NOT APPLY TO YOU.**
 
