@@ -1,8 +1,3 @@
-`TITLE: Goodlawyer Retainer (en Français) 
-REVIEWED: NO
-APPROVED: NO`
-
-
 # **Good Lawyer Retainer (en Français)**
 
 Goodlawyer pourvoit une plateforme en ligne pour donner les utilisateurs une compréhension générale du droit et pour permettre aux clients de se connecter et de travailler avec un réseau d’avocats sur cette plateforme. Même si le site Web et l’application peuvent contenir des informations générales sur des problèmes juridiques communes, on ne fournit pas de conseils juridiques directement à personne. Goodlawyer n’est pas un cabinet d’avocats et ne fournit pas de services juridiques directement. On ne révise pas les réponses ou les services de aucun avocat concernant l’efficacité et la suffisance juridique, ne tire pas de conclusions juridiques, ne pourvoit pas de conseils juridiques, de documents, d’opinions ou de recommandations à propos de vos droits juridiques, vos recours, vos options, vos choix de formulaires ou stratégies ou n’applique pas la loi aux faits de votre situation particulière. Tous les services fournis par Goodlawyer seront en anglais, mais si vous avez besoin de l’assistance en français vous pouvez nous contacter.
