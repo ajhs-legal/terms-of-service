@@ -1,10 +1,13 @@
 # Disputes and Dispute Resolution
 
-Section 18 discusses your agreement with Goodlawyer and our agreement with you about how we will resolve any disputes, including that we will both first try to resolve any dispute informally and that we both agree to use arbitration instead of going to court or using a jury if we can’t resolve the dispute informally, as detailed below.
+### This Section discusses your agreement with Goodlawyer and our agreement with you about how we will resolve any disputes, including that we will both first try to resolve any dispute informally and that we both agree to use arbitration instead of going to court or using a jury if we can’t resolve the dispute informally, as detailed below.
+
 
 #### Disputes between Goodlawyer and Platform Users
 
-If a dispute arises between you and Goodlawyer or our Affiliates, our goal is to resolve the dispute quickly, cost-effectively, and in a friendly manner. Accordingly, unless you opt out as provided in the Section below, you, Goodlawyer, and our Affiliates agree to resolve any claim, dispute, or controversy that arises out of or relates to this Agreement, the other Terms of Service, your relationship with Goodlawyer (including without limitation any claimed employment with Goodlawyer or one of our Affiliates or successors), the termination of your relationship with Goodlawyer, or the Platform Services (in this Section 18 each, a “**Claim**”) in accordance with this Section 18 (sometimes referred to as the “**Arbitration Provision**”).
+If a dispute arises between you and Goodlawyer or our Affiliates, **our goal is to resolve the dispute quickly, cost-effectively, and in a friendly manner.**
+
+Accordingly, you, Goodlawyer, and our Affiliates agree to resolve any claim, dispute, or controversy that arises out of your relationship with Goodlawyer (including without limitation any claimed employment with Goodlawyer or one of our Affiliates or successors), the termination of your relationship with Goodlawyer, or the Platform Services (in this Section each, a “**Claim**”) in accordance with this Section (sometimes referred to as the “**Arbitration Provision**”).
 
 #### Scope of Claims
 
@@ -30,7 +33,7 @@ Except as otherwise provided herein, arbitration will be conducted in Calgary, A
 
 You and the Company will follow the applicable arbitration rules with respect to arbitration fees. In any arbitration with a Lawyer, the Lawyer will pay arbitration fees only to the extent those fees are no greater than the filing or initial appearance fees applicable to court actions in the jurisdiction where the arbitration will be conducted, with Goodlawyer to make up the difference, if any. In any arbitration in which a User makes a claim under a consumer protection statute, the User will pay arbitration fees only to the extent those fees are no greater than the filing or initial appearance fees applicable to court actions in the jurisdiction where the arbitration will be conducted, or $250.00, whichever is less, with Goodlawyer to make up the difference, if any. The arbitrator must follow applicable law and may award only those remedies that would have applied had the matter been heard in court. Judgment may be entered on the arbitrator’s decision in any court having jurisdiction.
 
-Notwithstanding any other provision of this Agreement, no amendment to this Arbitration Provision will apply to any matter pending in an arbitration proceeding brought under this Section 18 unless all parties to that arbitration consent in writing to that amendment.
+Notwithstanding any other provision of this Agreement, no amendment to this Arbitration Provision will apply to any matter pending in an arbitration proceeding brought under this Section unless all parties to that arbitration consent in writing to that amendment.
 
 ##### Enforcement and Interpretation
 
