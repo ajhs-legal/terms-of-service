@@ -1,6 +1,6 @@
-> TITLE: Goodlawyer Retainer (en Français)
+`TITLE: Goodlawyer Retainer (en Français) 
 REVIEWED: NO
-APPROVED: NO
+APPROVED: NO`
 
 
 # **Good Lawyer Retainer (en Français)**
