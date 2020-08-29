@@ -1,8 +1,8 @@
 # Non-Circumvention
 
-This Page discusses your agreement to make and receive payments only through Goodlawyer for two years from the date you first meet your Client or Lawyer on the Site, unless you pay a Disintermediation Fee, as detailed below.
+## This Page discusses your agreement to make and receive payments only through Goodlawyer for two years from the date you first meet your Client or Lawyer on the Site, unless you pay a Disintermediation Fee, as detailed below.
 
-#### Payments Through the Platform
+## Payments Through the Platform
 
 You acknowledge and agree that (a) Goodlawyer used a substantial amount of labour and effort to develop our Platform to enable Clients to conveniently and transparently hire Lawyers online and (b) a substantial portion of the compensation Goodlawyer receives for making the Platform available to Users is collected through the Service Fees described in these Terms.
 
@@ -13,16 +13,13 @@ For the avoidance of doubt, if you, or the Organization you represent, did not i
 You agree not to circumvent the Payment Methods offered by the Platform. By way of illustration and not in limitation of the foregoing, you agree not to:
 
 1. submit Quotes or solicit Clients identified through the Platform to contract, hire, work with, or pay outside the Platform;
-
 2. accept Quotes or solicit Lawyers identified through the Platform to contract, invoice, or receive payment outside the Site;
-
-3. invoice or report on the Platform or in an Opt-Out Fee request an invoice or payment amount lower than that actually agreed between the Users; or
-
+3. invoice or report on the Platform or in an Opt-Out Fee request an invoice or payment amount lower than that actually agreed between the Users; or,
 4. refer a User you identified on the Platform to a third-party who is not a User of the Site for purposes of making or receiving payments off the Site.
 
 You agree to notify Goodlawyer immediately if a person suggests to you making or receiving payments outside of the Platform in violation of this Section. If you are aware of a breach or potential breach of this non-circumvention agreement, please submit a confidential report to Goodlawyer by sending an email message to: help@goodlawyer.ca.
 
-#### Circumvention Policy and Fees
+### Circumvention Policy and Fees
 
 If a Client solicits a Lawyer to take the Goodlawyer Relationship off of the Platform and make payment for Legal Services other than in accordance with Section 12.1, then the Client agrees to pay a one-time fee (the “**Disintermediation Fee**”) equal to the greater of: (i) $2,500, or (ii) 50% the amount actually paid by the Client to the Lawyer for Legal Services for which payment was processed other than through the Platform and (iii) 50% of the amount of a Quote provided by a Lawyer to the Client on the Platform, which may be through a custom Quote or the amount of a Fixed-Fee Listing.
 
