@@ -1,0 +1,53 @@
+{
+  "name": "",
+  "isOrdered": true,
+  "folders": {
+    "french": {
+      "name": "french",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "gollum": {
+      "name": "gollum",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "non-circumvention": {
+      "name": "non-circumvention",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "records": {
+      "name": "records",
+      "isOrdered": true,
+      "folders": {},
+      "files": {
+        "records-compliance": 0
+      }
+    },
+    "security-policy-irp": {
+      "name": "security-policy-irp",
+      "isOrdered": true,
+      "folders": {},
+      "files": {
+        "cyber-incident-response-plan": 0,
+        "company-policy": 1
+      }
+    },
+    "website-access": {
+      "name": "website-access",
+      "isOrdered": true,
+      "folders": {},
+      "files": {
+        "access": 0
+      }
+    }
+  },
+  "files": {
+    "README": 0,
+    "Home": 1
+  }
+}
