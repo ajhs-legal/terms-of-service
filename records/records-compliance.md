@@ -2,16 +2,15 @@
 
 ##### Goodlawyer makes no representations or warranties with regard to the Website, the Platform services, work product, or any activities or items related to this Agreement or the Terms of Service.
 
-##### Responsiblites of the Parties
+#### Responsibilities of the Parties
 
-Users will each:
+Users:
 
 1. Create and maintain records to document satisfaction of their respective obligations under this Agreement, including, without limitation, their respective payment obligations and compliance with tax and employment laws; and,
 2. Provide copies of such records to the Company upon request. Nothing in this subsection requires or will be construed as requiring Goodlawyer to supervise or monitor a User’s compliance with this Agreement, the other Terms of Service, or a Service Contract.
+3. **You are solely responsible for creation, storage, and backup of your business records.**
 
-**You are solely responsible for creation, storage, and backup of your business records.**
-
-Goodlawyer agrees that it will either:
+Goodlawyer:
 
 1. Store, backup, retain, or grant access to any information or data for each Client job or matter for the period request by a Lawyer to maintain that record under applicable legislation; or,
 2. Provide a Lawyer with a complete record of its job with the Client following completion of that job as indicated by the Lawyer.
@@ -49,7 +48,7 @@ Goodlawyer is not liable, and you agree not to hold us responsible, for any dama
 
 #### General Release
 
-**This Section discusses your agreement not to hold us responsible for any dispute you may have with another User, as detailed below.**
+###### This Section discusses your agreement not to hold us responsible for any dispute you may have with another User, as detailed below.
 
 In addition to the recognition that Goodlawyer is not a party to any Legal Services Contract between Users and any member of the Platform, you hereby release the Company, our Affiliates, and our respective officers, directors, agents, subsidiaries, partners, joint ventures, employees and service providers from claims, demands, and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with any dispute you have with another User, whether it be at law or in equity that exist as of the time you enter into this Agreement.
 
@@ -61,14 +60,14 @@ This release will not apply to a claim that we failed to meet our obligations un
 
 #### Indemnification
 
-**This Section discusses your agreement to pay for any costs or losses we have as a result of a claim brought against us related to your use of the Platform or Platform Services or your illegal or harmful conduct, as detailed below.**
+###### This Section discusses your agreement to pay for any costs or losses we have as a result of a claim brought against us related to your use of the Platform or Platform Services or your illegal or harmful conduct, as detailed below.
 
 You will indemnify, defend, and hold harmless Goodlawyer, our Affiliates, and our respective directors, officers, employees, representatives, partners, and agents (each an “**Indemnified Party**”) for all Indemnified Claims (defined below) and Indemnified Liabilities (defined below) relating to or arising out of:
 
 1. The use of the Platform and the Platform Services by you or your agents, including any payment obligations or default incurred through use of the Platform Services;
 2. Any Legal Services Contract entered into by you or your agents, including, but not limited to, the classification of a Lawyer as an independent contractor; the classification of Goodlawyer as an employer or joint employer of Lawyer; any employment-related claims, including any claims for unpaid wages or other compensation, overtime pay, sick leave, holiday or vacation pay, retirement benefits, worker’s compensation benefits, unemployment benefits, or any other employee benefits;
 3. Failure to comply with the Terms of Service by you or your agents;
-4. Filure to comply with applicable law by you or your agents;
+4. Failure to comply with applicable law by you or your agents;
 5. Negligence, willful misconduct, or fraud by you or your agents; and,
 6. Defamation, libel, violation of privacy rights, unfair competition, or infringement of Intellectual Property Rights or allegations thereof to the extent caused by you or your agents.
 

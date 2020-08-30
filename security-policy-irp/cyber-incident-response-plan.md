@@ -68,6 +68,7 @@ The IRT provides timely, organized, informed and effective response to Informati
 Through this IRP, Goodlawyer authorizes the IRT to take reasonable and appropriate steps necessary to mitigate and resolve Information Security Incidents, in accordance with the escalation and notification procedures defined in this IRP.
 
 ##### **Responsibilities**
+
 <br>
 The IRT is responsible for:
 
@@ -105,6 +106,7 @@ External sources who claim to have information regarding an actual or alleged In
 Goodlawyer shall assign resources and adopt procedures to timely assess automated detection results, screen internal and external reports and identify actual information security events. Goodlawyer shall document each identified Information Security Incident, with initial details, using [INCIDENT DOCUMENTATION TOOL OR PROCESS].
 
 ##### **Escalation**
+
 <br>
 Following identification of an Information Security Incident, the information security coordinator, or a designate, shall perform an initial risk-based assessment and determine the level of response required based on the incident's characteristics, including affected systems and data and potential risks and impact to Goodlawyer and its customers, employees, or others.
 Based on the initial assessment, the information security coordinator, or a designate, shall:
@@ -174,5 +176,6 @@ This IRP is effective as of September 15, 2020.
 Version: 1.0
 
 ##### Revision History
+
 <br>
 Original publication: September 1, 2020

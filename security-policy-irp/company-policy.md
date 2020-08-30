@@ -1,20 +1,20 @@
-# Company Policy for Privacy and Security
+# Privacy and Security Statement
 
-Protecting your privacy is at the heart of our business and keeping your information secure is our top priority. We want you to understand what we do, so we ask you to read our Privacy and Security Statement carefully.
+###### Protecting your privacy at Goodlawyer is at the heart of our business and keeping your information secure is our top priority. We want you to understand what we do, so we ask you to read our Privacy and Security Statement carefully.
 
-### Confidentiality of Information
+#### Confidentiality of Information
 
 We will never sell any personally identifiable information to a third party for marketing purposes without your consent. We will only disclose information to third parties about your account or the transfers or payments you make:
 
-1. ​	where it is necessary for opening or maintaining your account, or for completing transfers or payments;
-2. ​	if lawfully required so; or,
-3. ​	if you request or authorize it.
+1. ​    where it is necessary for opening or maintaining your account, or for completing transfers or payments;
+2. ​    if lawfully required so; or,
+3. ​    if you request or authorize it.
 
-### Our Promise of Security
+#### Our Promise of Security
 
 We safeguard information about you according to established and commercially reasonable security standards and procedures. We also assess new technology for protecting customer information on an ongoing basis.
 
-### Protecting Information Exchanged Online
+#### Protecting Information Exchanged Online
 
 When you apply online for our service, or provide information to us at our Web site, you provide personal and financial information that is necessary for us to process your application or payments.
 
@@ -26,18 +26,23 @@ Another way is to look for the change from the normal “http:” at the beginni
 
 In the interest of security, we suggest that you end your browser session before leaving your computer.
 
-### Accurate and Updated Information
+#### Accurate and Updated Information
 
 We maintain procedures designed to keep our records accurate, current and complete. You may access your personally identifiable information either by visiting our Web site and accessing your account information or, if you would prefer, e-mailing us at [help@goodlawyer.ca](mailto:help@goodlawyer.ca) during regular business hours. If you ever find that our records are incomplete, inaccurate or not current, please e-mail, write or call us, and we will investigate the matter, and where appropriate, promptly correct the information.
 
-### Banking Insurance Coverage
+#### Banking Insurance Coverage
 
-To help protect you from loss, we have obtained      Banking Insurance Coverage issued by     . This insurance protects against unauthorized transactions against your online account and provides you with up to [$100,000] in coverage per loss.
+```markdown
+## Question
+You need to get insurance.
+```
 
-### Linked Sites
+To help protect you from loss, we have obtained **INSERT Banking Insurance Coverage** issued by **ABC Bank Inc.** This insurance protects against unauthorized transactions against your online account and provides you with up to **XXXXXX** in coverage per loss.
+
+#### Linked Sites
 
 We have not reviewed all of the sites linked to our site. Linkage to another site does not indicate any approval or endorsement of any material contained in a linked site, and we are not responsible for their contents. Your connection to linked sites is at your own risk.
 
-### How to Contact Us Regarding Privacy and Security Issues
+##### How to Contact Us Regarding Privacy and Security Issues
 
-We take privacy and security matters very seriously and it is important to us that you understand and are comfortable with our privacy standards. If you have any questions, comments, criticisms or complaints about our Privacy and Security Statement and the way it affects you, please feel free to e-mail us at help@goodlawyer.ca or call us at      during regular business hours.
+We take privacy and security matters very seriously and it is important to us that you understand and are comfortable with our privacy standards. If you have any questions, comments, criticisms or complaints about our Privacy and Security Statement and the way it affects you, please feel free to e-mail us at help@goodlawyer.ca or call us at +1 (855) 624 2665 during regular business hours.
