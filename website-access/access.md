@@ -38,7 +38,7 @@ While we try to ensure that any information we post is both timely and accurate,
 
 ##### Prohibited Uses
 
-###### Users are not permitted to use, or encourage, promote, facilitate, instruct or induce others to use, the Platform or Platform Services for any activities that violate any law, statute, ordinance or regulation; for any other illegal or fraudulent purpose or any purpose that is harmful to others; or to transmit, store, display, distribute or otherwise make available content that is illegal, fraudulent or harmful to others.
+**Users are not permitted to use, or encourage, promote, facilitate, instruct or induce others to use, the Platform or Platform Services for any activities that violate any law, statute, ordinance or regulation; for any other illegal or fraudulent purpose or any purpose that is harmful to others; or to transmit, store, display, distribute or otherwise make available content that is illegal, fraudulent or harmful to others.**
 
 The following are examples of uses that are prohibited on the Site or when using the Site Services:
 
@@ -103,7 +103,7 @@ Subject to your compliance with these Terms, Goodlawyer grants you a limited, no
 
 ##### License to Platform
 
-###### By creating, uploading, posting, sending, receiving, storing, or otherwise making available any User Content on or through the Goodlawyer Platform, you grant the Company a non-exclusive, worldwide, royalty-free, irrevocable, perpetual (or for the term of the protection), sub-licensable and transferable license to such User Content to access, use, store, copy, modify, prepare derivative works of, distribute, publish, transmit, stream, broadcast, and otherwise exploit in any manner such User Content to provide and/or promote the Goodlawyer Platform, in any media or platform.
+**By creating, uploading, posting, sending, receiving, storing, or otherwise making available any User Content on or through the Goodlawyer Platform, you grant the Company a non-exclusive, worldwide, royalty-free, irrevocable, perpetual (or for the term of the protection), sub-licensable and transferable license to such User Content to access, use, store, copy, modify, prepare derivative works of, distribute, publish, transmit, stream, broadcast, and otherwise exploit in any manner such User Content to provide and/or promote the Goodlawyer Platform, in any media or platform.**
 
 Insofar as User Content (including Verified Images) includes personal information, such User Content will only be used for these purposes if such use complies with applicable data protection laws in accordance with our Privacy Policy. Unless you provide specific consent, we do not claim any ownership rights in any User Content and nothing in these Terms will be deemed to restrict any rights that you may have to use or exploit your User Content.
 
