@@ -4,7 +4,9 @@
 
 ###### This Section discusses your and our agreement about when and how long this Agreement will last, when and how either you or Goodlawyer can end this Agreement, and what happens if either of us ends the Agreement, as detailed below.
 
-Unless both you and Goodlawyer expressly agree otherwise in writing, either of us may terminate this Agreement in our sole discretion, at any time, without explanation, upon written notice to the other, which will result in the termination of the other Terms of Service as well, except as otherwise provided herein. You may provide written notice to [help@goodlawyer.ca](help@goodlawyer.ca). In the event you properly terminate this Agreement, your right to use the Platform and Platform Services is automatically revoked, and your Account will be closed. Goodlawyer is not a party to any Legal Services Contract between Users. Consequently, you understand and acknowledge that termination of this Agreement (or attempt to terminate this Agreement) does not terminate or otherwise impact any Legal Services Contract or Job entered into between Users. 
+Unless both you and Goodlawyer expressly agree otherwise in writing, either of us may terminate this Agreement in our sole discretion, at any time, without explanation, upon written notice to the other, which will result in the termination of the other Terms of Service as well, except as otherwise provided herein. You may provide written notice to [help@goodlawyer.ca](help@goodlawyer.ca). 
+
+In the event you properly terminate this Agreement, your right to use the Platform and Platform Services is automatically revoked, and your Account will be closed. Goodlawyer is not a party to any Legal Services Contract between Users. Consequently, you understand and acknowledge that termination of this Agreement (or attempt to terminate this Agreement) does not terminate or otherwise impact any Legal Services Contract or Job entered into between Users. 
 
 ##### Undertakings of Goodlawyer
 
