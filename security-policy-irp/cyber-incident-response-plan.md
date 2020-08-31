@@ -13,8 +13,6 @@ Specifically, Goodlawyer intends for this IRP to:
 5. Reduce overall risk exposure for Goodlawyer
 6. Engage stakeholders and drive appropriate participation in resolving information security incidents while fostering continuous improvement in Goodlawyer's information security program and incident response process.
 
-Goodlawyer has developed and maintains this IRP as may be required by applicable laws and regulations [, including [LIST APPLICABLE LAWS, REGULATIONS and SECTOR-SPECIFIC GUIDELINES].
-
 ### Definitions
 
 The terms defined below apply throughout this IRP:
@@ -29,7 +27,7 @@ This IRP applies to all Goodlawyer business groups, divisions and subsidiaries; 
 
 ##### **Other Plans and Policies**
 
-Goodlawyer may, from time to time, approve and make available more detailed, or location- or work group-specific plans, policies, procedures, standards, or processes to address specific information security issues or incident response procedures. Those additional plans, policies, procedures, standards and processes are extensions to this IRP. [You may find approved information security policies and other resources at [RESOURCE LISTING].]]
+Goodlawyer may, from time to time, approve and make available more detailed, or location- or work group-specific plans, policies, procedures, standards, or processes to address specific information security issues or incident response procedures. Those additional plans, policies, procedures, standards and processes are extensions to this IRP. 
 
 #### Accountability
 
@@ -67,9 +65,8 @@ The IRT provides timely, organized, informed and effective response to Informati
 
 Through this IRP, Goodlawyer authorizes the IRT to take reasonable and appropriate steps necessary to mitigate and resolve Information Security Incidents, in accordance with the escalation and notification procedures defined in this IRP.
 
-##### **Responsibilities**
+##### **Responsibilities of the IRT**
 
-<br>
 The IRT is responsible for:
 
 1. Addressing Information Security Incidents in a timely manner, according to this IRP.
@@ -77,9 +74,11 @@ The IRT is responsible for:
 3. Reporting its findings to management and to applicable authorities or other third parties, as appropriate.
 4. Reprioritizing other work responsibilities to permit a timely response to Information Security Incidents on notification.
 
-IRT Roster. The IRT consists of a core team, led by the information security coordinator, with representatives from key Goodlawyer groups and stakeholders. The current IRT roster [is available at [IRT ROSTER LOCATION]/includes the following individuals:
+**IRT Roster**
 
-[FUNCTION], [NAME], [CONTACT INFORMATION], [ALTERNATE/DESIGNATE CONTACT INFORMATION]
+The IRT consists of a core team, led by the Chief Technology Officer, with representatives from key Goodlawyer groups and stakeholders. The current IRT roster incudes:
+
+1. Parker Smith, Chief Technology Officer
 
 Call on external individuals, including vendor, service provider, or other resources, to participate on specific-event IRTs, as necessary.
 
@@ -91,7 +90,7 @@ Call on external individuals, including vendor, service provider, or other resou
 
 ##### **Automated Detection**
 
-Goodlawyer shall develop, implement and maintain automated detection means and other technical safeguards [as described in Goodlawyer's [[WISP]/information security policy] available at [WISP OR POLICY REFERENCE]/including [AUTOMATED DETECTION MEANS DESCRIPTION]].
+Goodlawyer shall develop, implement and maintain automated detection means and other technical safeguards upon request. 
 
 ##### **Reports from Employees or Other Internal Sources**
 
@@ -99,15 +98,14 @@ Employees, or others authorised to access Goodlawyer's IT systems, network, or d
 
 ##### **Reports from External Sources**
 
-External sources who claim to have information regarding an actual or alleged Information Security Incident should be directed to [EXTERNAL INCIDENT REPORTING CONTACT]. Employees who receive emails or other communications from external sources regarding Information Security Incidents that may affect Goodlawyer or others, security vulnerabilities or related issues shall immediately report those communications to [INTERNAL INCIDENT REPORTING CONTACT] and shall not interact with the source unless authorised.
+External sources who claim to have information regarding an actual or alleged Information Security Incident should be directed to [security@goodlawyer.ca](mailto:security@goodlawyer.ca). Employees who receive emails or other communications from external sources regarding Information Security Incidents that may affect Goodlawyer or others, security vulnerabilities or related issues shall immediately report those communications via the Goodlawyer internal communication system and shall not interact with the source unless authorised.
 
 ##### **Assessing Potential Incidents**
 
-Goodlawyer shall assign resources and adopt procedures to timely assess automated detection results, screen internal and external reports and identify actual information security events. Goodlawyer shall document each identified Information Security Incident, with initial details, using [INCIDENT DOCUMENTATION TOOL OR PROCESS].
+Goodlawyer shall assign resources and adopt procedures to timely assess automated detection results, screen internal and external reports and identify actual information security events. 
 
 ##### **Escalation**
 
-<br>
 Following identification of an Information Security Incident, the information security coordinator, or a designate, shall perform an initial risk-based assessment and determine the level of response required based on the incident's characteristics, including affected systems and data and potential risks and impact to Goodlawyer and its customers, employees, or others.
 Based on the initial assessment, the information security coordinator, or a designate, shall:
 
@@ -115,13 +113,12 @@ Based on the initial assessment, the information security coordinator, or a desi
 2. IRT Expectations. Set expectations for IRT member reply and engagement.
 3. Initial Notifications. Notify (if necessary) organizational leadership and any applicable business partners or service providers, Goodlawyer's cyber insurance carrier,(#scroll-bookmark-3).
 4. Investigation and Analysis. On activation, the IRT shall collaborate to investigate each identified Information Security Incident, analyze its effects and formulate an appropriate response plan to contain, remediate and recover from the incident.
-5. The IRT shall document its investigation and analysis for each identified Information Security Incident using [INCIDENT DOCUMENTATION TOOL OR PROCESS].
+5. The IRT shall document its investigation and analysis for each identified Information Security Incident using a means determined by the Chief Technology Officer in concert with the Goodlawyer executive team. 
 
 #### Containment, Remediation, and Recovery.
 
-###### Next, the IRT shall direct execution of the response plan it formulates according to its incident investigation and analysis to contain, remediate and recover from each identified Information Security Incident, using appropriate internal and external resources.
+**The IRT shall direct execution of the response plan it formulates according to its incident investigation and analysis to contain, remediate and recover from each identified Information Security Incident, using appropriate internal and external resources.**
 
-######
 The IRT shall document its response plans and the activities completed for each identified Information Security Incident using:
 
 1. **Evidence Preservation.** The IRT shall direct appropriate internal or external resources to capture and preserve evidence related to each identified Information Security Incident during investigation, analysis and response activities. The IRT shall seek counsel's advice, as needed, to establish appropriate evidence handling and preservation procedures and reasonably identify and protect evidence for specific Information Security Incidents.
@@ -137,45 +134,46 @@ The IRT shall document its response plans and the activities completed for each 
 11. **Affected Individuals.** If an applicable breach of Personal Information occurs, prepare and distribute notifications to affected individuals.
 12. \*\*[Others. Notify [\*\***customers/clients]** **or business partners according to current agreements.**
 
-### Post-Incident Review
+#### Post-Incident Review
 
-###### At a time reasonably following each identified Information Security Incident, the information security coordinator, or a designate, shall reconvene the IRT, others who participated in response to the incident and affected work group representatives, as appropriate, as a post-incident review team to assess the incident and Goodlawyer's response.
+**At a time reasonably following each identified Information Security Incident, the information security coordinator, or a designate, shall reconvene the IRT, others who participated in response to the incident and affected work group representatives, as appropriate, as a post-incident review team to assess the incident and Goodlawyer's response.**
 
-##### **Review Considerations**
+##### Review Considerations
 
 The post-incident review team shall consider Goodlawyer's effectiveness in detecting and responding to the incident and identify any gaps or opportunities for improvement. The post-incident review team shall also seek to identify one or more root causes for the incident and, according to risk, shall recommend appropriate actions to minimize the risks of recurrence.
 
-##### **Report**
+##### Report
 
-The post-incident review team shall document its findings using [INCIDENT DOCUMENTATION TOOL OR PROCESS].
+The post-incident review team shall document its findings using a means determined by the Chief Technology Officer in concert with the Goodlawyer executive team. 
 
-##### **Follow-Up Actions**
+##### Follow-Up Actions
 
 The information security coordinator shall monitor and coordinate completion of any follow-up actions identified by the post-incident review team, including communicating its recommendations to and seeking necessary authorization or support from Goodlawyer leadership.
 
-### Plan Training and Testing
+#### Plan Training and Testing
 
-##### **Training**.
+##### Training
 
-The information security coordinator shall develop, maintain and deliver training regarding this IRP that periodically[, but at least annually]:
+The information security coordinator shall develop, maintain and deliver training regarding this IRP that periodically, but at least annually:
 
 1. Informs all employees and others who have access to Goodlawyer's IT systems, network or data, about the IRP and how to recognize and report potential Information Security Incidents.
 2. Educates IRT members on their duties and expectations for responding to Information Security Incidents.
 
-##### **Testing**
+##### Testing
 
 The information security coordinator shall coordinate exercises to test this IRP periodically, but at least annually. The information security coordinator shall document test results, lessons learned and feedback and address them in plan reviews.
 
-#### Plan Review
+##### Plan Review
 
-Goodlawyer will review this IRP at least annually, or whenever there is a material change in Goodlawyer's business practices or applicable law that may reasonably affect its cyber incident response procedures. Plan reviews will also include feedback collected from post-incident reviews and training and testing exercises. The information security coordinator must approve any changes to this IRP and is responsible for communicating changes to affected parties.
+Goodlawyer will review this IRP at least annually, or whenever there is a material change in Goodlawyer's business practices or applicable law that may reasonably affect its cyber incident response procedures. 
 
-#### Effective Date.
+Plan reviews will also include feedback collected from post-incident reviews and training and testing exercises. The information security coordinator must approve any changes to this IRP and is responsible for communicating changes to affected parties.
+
+##### Effective Date.
 
 This IRP is effective as of September 15, 2020.
 Version: 1.0
 
 ##### Revision History
 
-<br>
-Original publication: September 1, 2020
+Original publication: September 15, 2020
