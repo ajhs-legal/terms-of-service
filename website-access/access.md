@@ -43,35 +43,27 @@ While we try to ensure that any information we post is both timely and accurate,
 The following are examples of uses that are prohibited on the Site or when using the Site Services:
 
 1. Seeking, offering, promoting, or endorsing any services, content, or activities that:
-
-2. Fraudulent or misleading uses or content, including:
-   undefinedundefinedundefinedundefinedundefinedundefinedundefinedundefinedundefined
-
+2. Fraudulent or misleading uses or content;
 3. expressing an unlawful preference in a job post or Fixed-Fee Listing or Quote or otherwise unlawfully discriminating on a protected basis;
-
 4. posting personal information concerning another person;
-
 5. spamming other Users with requests for Quotes or posting the same job multiple times so that more than one version remains active at a given time;
-
 6. making or demanding bribes or other payments without the intention of providing services in exchange for the payment;
-
 7. requesting or demanding free services, including requesting Lawyers to submit work as part of the proposal process for very little or no money;
-
-8. requesting a fee before allowing a User to submit a proposal; and
-
+8. requesting a fee before allowing a User to submit a proposal; and,
 9. attempting to or actually manipulating or misusing the feedback system, including by:
-   
    1. duplicating or sharing accounts;
    2. Selling, trading, or giving an account to another person without Goodlawyer’s consent;
    3. sharing or soliciting contact information, such as email, phone number, or Skype ID, in a profile or job post;
    4. directly or indirectly, advertising or promoting another website, product, or service or soliciting other Users for other websites, products, or services, including advertising on Goodlawyer to recruit Lawyers and/or Clients to join another website or company;
    5. Conduct or actions that could jeopardize the integrity of or circumvent the Platform, Platform Services or Goodlawyer's proprietary information, including:
-      1. attempting to or actually reverse engineering, modifying, adapting, translating, preparing derivative works from, decompiling, interfering with the operation of, or otherwise attempting to derive source code from any part of the Platform or Platform Services unless expressly permitted by applicable law or the Company; or
+      1. attempting to or actually reverse engineering, modifying, adapting, translating, preparing derivative works from, decompiling, interfering with the operation of, or otherwise attempting to derive source code from any part of the Platform or Platform Services unless expressly permitted by applicable law or the Company; or,
       2. Accessing or using the Platform or Platform Services to build a similar service or application, identify or solicit our Users, or publish any performance or any benchmark test or analysis relating to the Platform.
 
 ##### Enforcement
 
-Goodlawyer reserves the right, but does not assume the obligation, to investigate any potential violation of this Section or any other potential violation of the Terms of Service and to remove, disable access to, or modify any content on the Platform. Our failure to act with respect to a breach by you or others does not waive our right to act with respect to subsequent or similar breaches. We do not guarantee we will take action against all breaches of this Agreement or the Terms of Service.
+Goodlawyer reserves the right, but does not assume the obligation, to investigate any potential violation of this Section or any other potential violation of the Terms of Service and to remove, disable access to, or modify any content on the Platform. 
+
+Our failure to act with respect to a breach by you or others does not waive our right to act with respect to subsequent or similar breaches. We do not guarantee we will take action against all breaches of this Agreement or the Terms of Service.
 
 ##### Reporting and Collecting Violations
 
