@@ -1,6 +1,6 @@
 # Records of Compliance
 
-##### Goodlawyer makes no representations or warranties with regard to the Website, the Platform services, work product, or any activities or items related to this Agreement or the Terms of Service.
+##### Goodlawyer makes no representations or warranties about the Website, the Platform services, work product, or any activities or items related to this Agreement or the Terms of Service.
 
 #### Responsibilities of the Parties
 
@@ -19,7 +19,7 @@ Goodlawyer:
 
 ##### Warranty Disclaimer
 
-You agree not to rely on the Website, the Platform Services, any information on the site or the continuation of the Platform. The Platform and the Platform services are provided on and “*as is*” and an “**as available**” basis.
+You agree not to rely on the Website, the Platform Services, any information on the site or the continuation of the Platform. The Platform and the Platform services are provided on and “_as is_” and an “**as available**” basis.
 
 To the maximum extent permitted by applicable law, the Company disclaims all express and implied conditions, representations, and warranties including, but not limited to, the warranties of merchantability, accuracy, fitness for a particular purpose, title, and non-infringement. Some jurisdictions may not allow for all of the foregoing limitations on warranties, so to that extent, some or all of the above limitations may not apply to you.
 
@@ -36,8 +36,8 @@ Goodlawyer is not liable, and you agree not to hold us responsible, for any dama
 * Damage to your hardware device from the use of the Platform or Platform Services;
 * The content, actions, or inactions of third parties’ use of the Platform or Platform Services;
 * A suspension or other action taken with respect to your Account;
-* Your reliance on the quality, accuracy, or reliability of Fixed-Fee Listings, Profiles, Ratings, Reviews, recommendations, and feedback (including their content, order, and display), Composite Information, or metrics found on, used on, or made available through the Platform; and
-* Your need to modify practices, content, or behavior or your loss of or inability to do business, as a result of changes to the Terms of Service.
+* Your reliance on the quality, accuracy, or reliability of Profiles, Ratings, Reviews, recommendations, and feedback (including their content, order, and display), Composite Information, or metrics found on, used on, or made available through the Platform; and
+* Your need to modify practices, content, or behavior or your loss of or inability to do business, because of changes to the Terms of Service.
 
 **ADDITIONALLY, IN NO EVENT WILL GOODLAWYER, OUR AFFILIATES, OUR LICENSORS, OR OUR THIRD-PARTY SERVICE PROVIDERS, AS APPLICABLE, BE LIABLE FOR ANY SPECIAL, CONSEQUENTIAL, INCIDENTAL, PUNITIVE, EXEMPLARY, OR INDIRECT COSTS OR DAMAGES, INCLUDING, BUT NOT LIMITED TO, LITIGATION COSTS, INSTALLATION AND REMOVAL COSTS, OR LOSS OF DATA, PRODUCTION, PROFIT, OR BUSINESS OPPORTUNITIES. THE LIABILITY OF GOODLAWYER, OUR AFFILIATES, OUR LICENSORS, AND OUR THIRD-PARTY SERVICE PROVIDERS TO ANY USER FOR ANY CLAIM ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT OR THE OTHER TERMS OF SERVICE WILL NOT EXCEED THE LESSER OF"**
 
