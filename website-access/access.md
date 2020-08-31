@@ -32,7 +32,9 @@ Goodlawyer may terminate any license it has granted to any Website visitor or Us
 
 ###### Goodlawyer offers the Website and Platform Services for personal, consumer, household and business purposes.
 
-We make the Website and Platform Services available for Users to find one another, enter into service relationships, make and receive payments, and receive and provide Legal Services. In addition, certain Platform Services, may be used to obtain, general information and articles that we believe may be of interest to Platform visitors and Users. While we try to ensure that any information we post is both timely and accurate, errors may appear from time to time. We do not make any representations or warranties with respect to any information that is posted on the Platform by us or anyone else. In no event should any content be relied on or construed as tax or legal advice or otherwise, except if obtained through a Legal Services Contract. You should independently verify the accuracy of any content.
+We make the Website and Platform Services available for Users to find one another, enter into service relationships, make and receive payments, and receive and provide Legal Services. In addition, certain Platform Services, may be used to obtain, general information and articles that we believe may be of interest to Platform visitors and Users. 
+
+While we try to ensure that any information we post is both timely and accurate, errors may appear from time to time. We do not make any representations or warranties with respect to any information that is posted on the Platform by us or anyone else. In no event should any content be relied on or construed as tax or legal advice or otherwise, except if obtained through a Legal Services Contract. You should independently verify the accuracy of any content.
 
 ##### Prohibited Uses
 
@@ -81,7 +83,7 @@ Goodlawyer may, at its sole discretion, enable Users to:
 
 1. Create, upload, post, send, receive and store User Content, such as text, photos, audio, documents, files, video, or other materials and information on or through the Goodlawyer Platform; and,
 
-2. Access and view User Content and any content that Goodlawyer itself makes available on or through the Goodlawyer Platform, including proprietary Goodlawyer content and any content licensed or authorized for use by or through Goodlawyer from a third party ("**Company Conten**t" and together with User Content, "**Collective Content**").
+2. Access and view User Content and any content that Goodlawyer itself makes available on or through the Goodlawyer Platform, including proprietary Goodlawyer content and any content licensed or authorized for use by or through Goodlawyer from a third party ("**Company Content**" and together with User Content, "**Collective Content**").
 
 #### Legal Protection and Ownership
 
@@ -112,18 +114,6 @@ Subject to your compliance with these Terms, Goodlawyer grants you a limited, no
 ###### By creating, uploading, posting, sending, receiving, storing, or otherwise making available any User Content on or through the Goodlawyer Platform, you grant the Company a non-exclusive, worldwide, royalty-free, irrevocable, perpetual (or for the term of the protection), sub-licensable and transferable license to such User Content to access, use, store, copy, modify, prepare derivative works of, distribute, publish, transmit, stream, broadcast, and otherwise exploit in any manner such User Content to provide and/or promote the Goodlawyer Platform, in any media or platform.
 
 Insofar as User Content (including Verified Images) includes personal information, such User Content will only be used for these purposes if such use complies with applicable data protection laws in accordance with our Privacy Policy. Unless you provide specific consent, we do not claim any ownership rights in any User Content and nothing in these Terms will be deemed to restrict any rights that you may have to use or exploit your User Content.
-
-##### Lawyer Photographs
-
-```markdown
-## Review
-
-Does this still need to be here?
-```
-
-We may offer Lawyers the option of having professional photographers take photographs of the Lawyer or their Law Firm, which are made available by the photographer to Lawyers to include in their User Profiles with or without a watermark or tag bearing the words "Goodlawyer Verified Photo" or similar wording ("**Verified Images**"). 
-
-Lawyers are responsible for ensuring that you are accurately represented in the Verified Images and you will stop using the Verified Images on our Platform if they no longer accurately represent you or any of your Legal Services, if you stop offering the Legal Service featured, or if your Goodlawyer Account is terminated or suspended for any reason. You acknowledge and agree that Goodlawyer has the right to use any Verified Images in accordance with this section for advertising, marketing and/or any other business purposes in any media or platform, whether in relation to your services or otherwise, without further notice or compensation to you. Where Goodlawyer is not the exclusive owner of Verified Images, by using such Verified Images on or through the Goodlawyer Platform, you grant us an exclusive, worldwide, royalty-free, irrevocable, perpetual (or for the term of the protection), sub-licensable and transferable license to use such Verified Images for advertising, marketing and/or any other business purposes in any media or platform, whether in relation to your Listing or otherwise, without further notice or compensation to you.
 
 ##### Content Ownership
 
