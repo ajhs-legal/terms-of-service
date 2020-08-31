@@ -28,15 +28,15 @@ We may use any of the categories of information listed above for other business 
 
 We may share any of the above-listed information with Service Providers, as described above. Service Providers are restricted from using Personal Information for any purpose that is not related to our engagement. The types of Service Providers with whom we share information and the services they provide are described in thePrivacy Policy. We have not sold any personal information. 
 
-#### **Right to Know/Access Information**
+#### Right to Know/Access Information
 
 You have the right to request access to Personal Information collected about you over the past 12 months and information regarding the source of that information, the purposes for which we collect it, and the third parties and service providers with whom we share it. You may submit such a request as described below. To protect our users’ Personal Information, we are required to verify your identity before we can act on your request.
 
-#### **Right to Request Deletion of Information** 
+#### Right to Request Deletion of Information
 
 You have the right to request in certain circumstances that we delete any Personal Information that we have collected directly from you. You may submit such a request as described below. To protect our users’ Personal Information, we are required to verify your identity before we can act on your request. We may have a reason under the law why we do not have to comply with your request, or why we may comply with is in a more limited way than you anticipated. If we do, we will explain that to you in our response.
 
-#### **How to Submit a Request**
+#### How to Submit a Request
 
 You may submit a request to exercise your rights to know/access or delete your Personal Information by sending us an email at hi@ho.com
 
@@ -48,10 +48,10 @@ If we suspect fraudulent or malicious activity on or from the password-protected
 
 You may only make a verifiable consumer request twice within a 12-month period. Making a verifiable consumer request does not require you to create an account with us.  We will only use personal information provided in a verifiable consumer request to verify your identity or authority to make the request.
 
-#### **Right to Opt Out of Sale of Personal Information to Third Parties** 
+#### Right to Opt Out of Sale of Personal Information to Third Parties
 
 You have the right to opt out of any sale of your Personal Information by Graham Holdings to third parties. We do not sell information to third parties.
 
-#### **Right to Information Regarding Participation in Data Sharing for Financial Incentives**
+#### Right to Information Regarding Participation in Data Sharing for Financial Incentives
 
 You have the right to be free from discrimination based on your exercise of your CCPA rights.  We do not discriminate against anyone who chooses to exercise their CCPA rights.
