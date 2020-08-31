@@ -18,7 +18,7 @@ These Site Terms of Use, the other Terms of Service, and any Claim will be gover
 
 #### Informal Dispute Resolution
 
-###### Before serving a demand for arbitration of a Claim, you agree with the Company to first notify each other of the Claim or potential Claim. You agree to notify Goodlawyer of the Claim at by email to [help@goodlawyer.ca](help@goodlawyer.ca), and the Company agrees to provide to you a notice at your email address on file (in each case, a “**Notice**”). 
+**Before serving a demand for arbitration of a Claim, you agree with the Company to first notify each other of the Claim or potential Claim. You agree to notify Goodlawyer of the Claim at by email to [help@goodlawyer.ca](help@goodlawyer.ca), and the Company agrees to provide to you a notice at your email address on file (in each case, a “_Notice_”).**
 
 You and the Company then will seek informal voluntary resolution of the Claim. Any Notice must include pertinent account information, a brief description of the Claim, and contact information, so that you or Goodlawyer, as applicable, may evaluate the Claim and attempt to informally resolve the Claim. Both you and the Company will have 60 days from the date of the receipt of the Notice to informally resolve the other party’s Claim, which, if successful, will avoid the need for further action.
 
@@ -40,13 +40,17 @@ Notwithstanding any other provision of this Agreement, no amendment to this Arbi
 
 ##### Enforcement and Interpretation
 
-This Arbitration Provision is the full and complete agreement relating to the formal resolution of Claims. Except as otherwise provided in this Arbitration Provision, this Arbitration Provision covers, and the arbitrator shall have exclusive jurisdiction to decide, all disputes arising out of or relating to the interpretation, enforcement, or application of this Arbitration Provision, including the enforceability, revocability, scope, or validity of the Arbitration Provision or any portion of the Arbitration Provision. All such matters shall be decided by an arbitrator and not by a court. The parties expressly agree that the arbitrator and not a court will decide any question of whether the parties agreed to arbitrate, including but not limited to any claim that all or part of this Arbitration Provision, this Agreement, or any other part of the Terms of Service is void or voidable.
+This Arbitration Provision is the full and complete agreement relating to the formal resolution of Claims. Except as otherwise provided in this Arbitration Provision, this Arbitration Provision covers, and the arbitrator shall have exclusive jurisdiction to decide, all disputes arising out of or relating to the interpretation, enforcement, or application of this Arbitration Provision, including the enforceability, revocability, scope, or validity of the Arbitration Provision or any portion of the Arbitration Provision. 
+
+All such matters shall be **decided by an arbitrator and not by a court**. The parties expressly agree that the arbitrator and not a court will decide any question of whether the parties agreed to arbitrate, including but not limited to any claim that all or part of this Arbitration Provision, this Agreement, or any other part of the Terms of Service is void or voidable.
 
 In the event any portion of this Arbitration Provision is deemed unenforceable, the remainder of this Arbitration Provision will be enforceable. If any portion of the Class Action Waiver below of this Arbitration Provision is deemed to be unenforceable, you and Goodlawyer agree that this Arbitration Provision will be enforced to the fullest extent permitted by law.
 
 ##### Class Action Waiver
 
-Both you and the Company agree to bring any dispute in arbitration on an individual basis only, and not on a class or collective basis on behalf of others. There will be no right or authority for any dispute to be brought, heard or arbitrated as a class or collective action, or as a member in any such class or collective proceeding (the “**Class Action Waiver**”). Notwithstanding any other provision of this Agreement or the applicable arbitration rules, disputes regarding the enforceability, revocability, scope, or validity or breach of the Class Action Waiver may be resolved only by a civil court of competent jurisdiction and not by an arbitrator. In any case in which:
+Both you and the Company agree to bring any dispute in arbitration on an individual basis only, and not on a class or collective basis on behalf of others. There will be no right or authority for any dispute to be brought, heard or arbitrated as a class or collective action, or as a member in any such class or collective proceeding (the “**Class Action Waiver**”). 
+
+Notwithstanding any other provision of this Agreement or the applicable arbitration rules, disputes regarding the enforceability, revocability, scope, or validity or breach of the Class Action Waiver may be resolved only by a civil court of competent jurisdiction and not by an arbitrator. In any case in which:
 
 1. The dispute is filed as a class or collective action; and,
 2. There is a final judicial determination that all or part of the Class Action Waiver is unenforceable, the class or collective action to that extent must be litigated in a civil court of competent jurisdiction, but the portion of the Class Action Waiver that is enforceable shall be enforced in arbitration. 
