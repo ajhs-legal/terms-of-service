@@ -20,9 +20,9 @@ The CCPA defines “**Personal Information**” to mean “_information that ide
 You have the right to receive notice of the categories of Personal Information we collect, and the purposes for which those categories of Personal Information will be used. This notice should be provided at or before the time of collection. The categories we use to describe the information are those enumerated in the CCPA.
 
 *   **Identifiers.** We collect your name, phone number, contact address and e-mail address when you engage with our website. We use this information to manage and provide the Services that you request, respond to your requests, and to communicate with you about the Services. We collect your social media handle when you interact with our Services through social media. We use this information to improve the user experience and our Service.
-*   **Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e)).**In addition to the identifiers in the above section, we collect your credit card number to provide you with requested Services.
-*   **Internet or other similar network activity.**We automatically collect information about your browsing history and your interaction with the content of our Services to measure activity, determine the effectiveness of our Services, and improve them.
-*   **Sensory Data.**We collect your audio or voice recordings to provide you with Services.
+*   **Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e)).** In addition to the identifiers in the above section, we collect your credit card number to provide you with requested Services.
+*   **Internet or other similar network activity.** We automatically collect information about your browsing history and your interaction with the content of our Services to measure activity, determine the effectiveness of our Services, and improve them.
+*   **Sensory Data.** We collect your audio or voice recordings to provide you with Services.
 
 We may use any of the categories of information listed above for other business or operational purposes compatible with the context in which the Personal Information was collected.
 
